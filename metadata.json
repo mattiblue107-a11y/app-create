@@ -1,0 +1,6 @@
+{
+  "name": "Muse",
+  "description": "Aplicación de descubrimiento visual digital para creativos, exploradores visuales y coleccionistas de ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
